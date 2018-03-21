@@ -4575,8 +4575,6 @@
     <component-filter name="com.sankuai.meituan/com.meituan.android.base.util.ServiceForegroundHelper$InnerService" />
     <component-filter name="com.sankuai.meituan/com.dianping.networklog.PushMessageReceiver" />
     <component-filter name="com.sankuai.meituan/com.meituan.android.time.TimeChangeReceiver" />
-    <component-filter name="com.oasisfeng.greenify/com.oasisfeng.greenify.notification.gadget.NotificationService" />
-    <component-filter name="com.oasisfeng.greenify/com.oasisfeng.greenify.notification.ui.QuickActionNotificationService" />
     <component-filter name="com.jianshu.haruki/com.xiaomi.push.service.XMPushService" />
     <component-filter name="com.jianshu.haruki/com.xiaomi.mipush.sdk.PushMessageHandler" />
     <component-filter name="com.jianshu.haruki/com.xiaomi.mipush.sdk.MessageHandleService" />
