@@ -8,4 +8,9 @@
 大量国产appifw规则，是我另一个MAT的IFW版本。
 使用方法
 复制到数据/系统/ IFW下，修改权限为RW-R--
+取消对Fcm gcm推送的屏蔽
+相关改动
+GCM替换为xx
+FCM替换为XXX
+FirebaseInstanceIdReceiver替换为xxxx
 
