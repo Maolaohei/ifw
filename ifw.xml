@@ -4572,8 +4572,6 @@
     <component-filter name="com.netease.uu/com.xiaomi.push.service.XMPushService" />
     <component-filter name="com.netease.uu/com.netease.inner.pushclient.huawei.MessageReceiver" />
     <component-filter name="com.netease.uu/com.huawei.android.pushagent.PushEventReceiver" />
-    <component-filter name="bin.xposed.Unblock163MusicClient/bin.xposed.Unblock163MusicClient.ui.SettingsActivityAlias" />
-    <component-filter name="com.oasisfeng.greenify/com.oasisfeng.greenify.notification.NotificationListenerDelegate" />
     <component-filter name="com.miHoYo.bh3rdJP/tieba.baidu.com.tiebasharesdk.TbShareWebviewActivity" />
     <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PushActivity" />
     <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DaemonService" />
