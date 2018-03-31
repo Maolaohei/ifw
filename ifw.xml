@@ -111,6 +111,7 @@
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.NetworkStatusReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.PingReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.receiver.XiaomiMessageReceiver" />
+    <component-filter name="rikka.smscodehelper/rikka.smscodehelper.MainActivity" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.event.ImeForWebService" />
     <component-filter name="com.baidu.input/com.baidu.input.meeting.service.NoteService" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.front.note.NoteService" />
@@ -4590,6 +4591,31 @@
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsJobService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.auth.api.signin.RevocationBoundService" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.mihoyo.localnotification.LocalNotificationManager" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.adjust.sdk.AdjustReferrerReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/tieba.baidu.com.tiebasharesdk.TbShareWebviewActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PushActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DaemonService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DownloadService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.AlarmReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PopWinActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.MyReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.JPushEventReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DataProvider" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.miHoYo.bh3.newLocalPush.LocalNotificationManager" />
+    <component-filter name="li.lingfeng.ltweaks/li.lingfeng.ltweaks.activities.BilibiliActivity" />
+    <component-filter name="com.zhiyoo/com.zhiyoo.app.BaiduPushMessageReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushServiceReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.RegistrationReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushService" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.CommandService" />
+    <component-filter name="com.zhiyoo/com.baidu.mobads.AppActivity" />
+    <component-filter name="com.zhiyoo/com.qq.e.ads.ADActivity" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdFileProvider" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.DownloadService" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdActivity" />
   </broadcast>
   <service block="true" log="false">
     <component-filter name="com.apkpure.aegon/com.cloudtech.ads.core.AdGuardService" />
@@ -4703,6 +4729,7 @@
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.NetworkStatusReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.PingReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.receiver.XiaomiMessageReceiver" />
+    <component-filter name="rikka.smscodehelper/rikka.smscodehelper.MainActivity" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.event.ImeForWebService" />
     <component-filter name="com.baidu.input/com.baidu.input.meeting.service.NoteService" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.front.note.NoteService" />
@@ -9182,6 +9209,31 @@
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsJobService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.auth.api.signin.RevocationBoundService" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.mihoyo.localnotification.LocalNotificationManager" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.adjust.sdk.AdjustReferrerReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/tieba.baidu.com.tiebasharesdk.TbShareWebviewActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PushActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DaemonService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DownloadService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.AlarmReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PopWinActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.MyReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.JPushEventReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DataProvider" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.miHoYo.bh3.newLocalPush.LocalNotificationManager" />
+    <component-filter name="li.lingfeng.ltweaks/li.lingfeng.ltweaks.activities.BilibiliActivity" />
+    <component-filter name="com.zhiyoo/com.zhiyoo.app.BaiduPushMessageReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushServiceReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.RegistrationReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushService" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.CommandService" />
+    <component-filter name="com.zhiyoo/com.baidu.mobads.AppActivity" />
+    <component-filter name="com.zhiyoo/com.qq.e.ads.ADActivity" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdFileProvider" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.DownloadService" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdActivity" />
   </service>
   <activity block="true" log="false">
     <component-filter name="com.apkpure.aegon/com.cloudtech.ads.core.AdGuardService" />
@@ -9295,6 +9347,7 @@
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.NetworkStatusReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.xiaomi.push.service.receivers.PingReceiver" />
     <component-filter name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.receiver.XiaomiMessageReceiver" />
+    <component-filter name="rikka.smscodehelper/rikka.smscodehelper.MainActivity" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.event.ImeForWebService" />
     <component-filter name="com.baidu.input/com.baidu.input.meeting.service.NoteService" />
     <component-filter name="com.baidu.input/com.baidu.input.ime.front.note.NoteService" />
@@ -13774,5 +13827,30 @@
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.analytics.AnalyticsJobService" />
     <component-filter name="com.google.android.inputmethod.latin/com.google.android.gms.auth.api.signin.RevocationBoundService" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.mihoyo.localnotification.LocalNotificationManager" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.adjust.sdk.AdjustReferrerReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/tieba.baidu.com.tiebasharesdk.TbShareWebviewActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PushActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DaemonService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DownloadService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushService" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.PushReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.AlarmReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.ui.PopWinActivity" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.MyReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jiguang.unity.push.JPushEventReceiver" />
+    <component-filter name="com.miHoYo.bh3rdJP/cn.jpush.android.service.DataProvider" />
+    <component-filter name="com.miHoYo.bh3rdJP/com.miHoYo.bh3.newLocalPush.LocalNotificationManager" />
+    <component-filter name="li.lingfeng.ltweaks/li.lingfeng.ltweaks.activities.BilibiliActivity" />
+    <component-filter name="com.zhiyoo/com.zhiyoo.app.BaiduPushMessageReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushServiceReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.RegistrationReceiver" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.PushService" />
+    <component-filter name="com.zhiyoo/com.baidu.android.pushservice.CommandService" />
+    <component-filter name="com.zhiyoo/com.baidu.mobads.AppActivity" />
+    <component-filter name="com.zhiyoo/com.qq.e.ads.ADActivity" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdFileProvider" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.DownloadService" />
+    <component-filter name="com.zhiyoo/com.afk.client.ads.AdActivity" />
   </activity>
 </rules>
